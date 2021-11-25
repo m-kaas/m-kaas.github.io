@@ -1,0 +1,9 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "F3Q99L74MW.by.st.kgzBankApp",
+            "paths": [ "*", "/" ]
+        }]
+    }
+}
